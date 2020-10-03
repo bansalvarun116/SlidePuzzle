@@ -4,3 +4,6 @@ I am very excited to present you this project. This was my First year project wh
 
 This is a very simple app of a game where you are given a puzzle to solve. This was one of my favourite games as a child. It got a very intresting algorithm that works in the background. Do check that out.
 
+![](puzzle1.png)
+
+![](puzzle2.png)
